@@ -1,0 +1,269 @@
+{
+    "Header": {
+      "login": "Iniciar sesión",
+      "logout": "Cerrar sesión",
+      "register": "Registrarse"
+    },
+    "Index": {
+      "welcome_message": "Bienvenido a Medical App",
+      "description": "Citas en línea o presenciales y mucho más.",
+      "services": "Nuestros Servicios",
+      "consultation": "Consultas",
+      "consultation_description": "Obtén una consulta profesional de nuestros doctores experimentados...",
+      "online_consultation": "Consulta en Línea",
+      "online_consultation_description": "Consulta con nuestros doctores en línea desde la comodidad de tu hogar...",
+      "learnMore": "Saber Más",
+      "about_us": "Acerca de Nosotros",
+      "about_us_description": "Somos una empresa dedicada a proporcionar soluciones tecnológicas para la gestión médica, facilitando la vida de médicos y pacientes.",
+      "privacy_policy": "Política de Privacidad",
+      "privacy_policy_description": "Nos tomamos muy en serio la privacidad de nuestros usuarios. Lea nuestra política de privacidad para entender cómo manejamos su información.",
+      "contact": "Contacto",
+      "contact_description": "¿Tienes alguna pregunta o necesitas asistencia? No dudes en contactarnos a través de nuestra página de contacto."
+    },
+    "Consultas": {
+      "title": "Consultas",
+      "description": "Obtén una consulta profesional de nuestros doctores experimentados para resolver tus problemas de salud.",
+      "learnMore": "Saber Más...",
+      "sectionTitle": "Consultas Presenciales",
+      "sectionDescription": "En nuestras consultas presenciales, recibirás atención personalizada de nuestros médicos expertos. Programar una cita es fácil y rápido.",
+      "bookNow": "Reservar Ahora"
+    },
+    "ConsultasOnline": {
+      "title": "Consulta en Línea",
+      "description": "Consulta con nuestros doctores en línea desde la comodidad de tu hogar usando nuestra plataforma de telemedicina.",
+      "learnMore": "Saber Más...",
+      "sectionTitle": "Consulta en Línea",
+      "sectionDescription": "La consulta en línea te permite acceder a nuestros servicios médicos sin salir de casa. Conéctate con nuestros doctores a través de videollamadas.",
+      "bookNow": "Reservar Ahora"
+    },
+    "AboutUs": {
+      "title": "Acerca de Nosotros - Medical App",
+      "heading": "Acerca de Nosotros",
+      "paragraph1": "En Medical App, nos dedicamos a proporcionar soluciones tecnológicas innovadoras para la gestión de citas médicas, tanto presenciales como en línea. Nuestro objetivo es facilitar la vida de los médicos y pacientes a través de una plataforma fácil de usar y altamente eficiente.",
+      "paragraph2": "Con nuestro sistema, puedes programar, gestionar y realizar consultas médicas desde la comodidad de tu hogar o en la clínica. Estamos comprometidos a mejorar la experiencia médica con tecnología de punta."
+    },
+    "Contact": {
+      "title": "Contacto - Medical App",
+      "heading": "Contacto",
+      "paragraph1": "¿Tienes alguna pregunta o necesitas asistencia? Estamos aquí para ayudar. Por favor completa el formulario de contacto a continuación y nos pondremos en contacto contigo lo antes posible.",
+      "name_label": "Nombre",
+      "email_label": "Correo Electrónico",
+      "message_label": "Mensaje",
+      "submit_button": "Enviar"
+    },
+    "PrivacyPolicy": {
+      "title": "Política de Privacidad - Medical App",
+      "heading": "Política de Privacidad",
+      "paragraph1": "En Medical App, nos tomamos muy en serio la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, usamos y protegemos su información personal.",
+      "collection_heading": "Recopilación de Información",
+      "collection_paragraph": "Recopilamos información personal que usted nos proporciona directamente, como su nombre, dirección de correo electrónico y detalles de la cita médica. También podemos recopilar información automáticamente a través de su uso de nuestra plataforma.",
+      "usage_heading": "Uso de la Información",
+      "usage_paragraph": "Usamos la información recopilada para proporcionar y mejorar nuestros servicios, comunicar actualizaciones importantes y personalizar su experiencia en nuestra plataforma.",
+      "protection_heading": "Protección de la Información",
+      "protection_paragraph": "Implementamos medidas de seguridad adecuadas para proteger su información personal contra el acceso no autorizado, alteración, divulgación o destrucción.",
+      "paragraph2": "Para más información, por favor lea nuestra política de privacidad completa o contáctenos si tiene alguna pregunta."
+    },
+    "Login": {
+        "title": "Iniciar Sesión",
+        "heading": "Iniciar Sesión",
+        "username_label": "Nombre de usuario",
+        "password_label": "Contraseña",
+        "submit_button": "Iniciar Sesión",
+        "register_prompt": "¿No tienes una cuenta? ",
+        "register_link": "Regístrate aquí"
+      },
+      "Register": {
+        "title": "Registrar",
+        "heading": "Registrar",
+        "address": "Dirección",
+        "username_label": "Nombre de Usuario",
+        "email_label": "Correo Electrónico",
+        "password_label": "Contraseña",
+        "confirm_password_label": "Confirmar Contraseña",
+        "role_label": "Rol",
+        "role_patient": "Paciente",
+        "role_doctor": "Doctor",
+        "dni_label": "DNI",
+        "birth_date_label": "Fecha de Nacimiento",
+        "first_name_label": "Nombre",
+        "last_name_label": "Apellido",
+        "direccion": "Dirección",
+        "insurance_info_label": "Información del Seguro",
+        "specialties_label": "Especialidades",
+        "specialty_general": "Medicina General / Medicina Familiar",
+        "specialty_pediatrics": "Pediatría",
+        "specialty_gynecology": "Ginecología y Obstetricia",
+        "specialty_cardiology": "Cardiología",
+        "specialty_dermatology": "Dermatología",
+        "specialty_neurology": "Neurología",
+        "specialty_psychiatry": "Psiquiatría",
+        "specialty_ophthalmology": "Oftalmología",
+        "specialty_ent": "Otorrinolaringología",
+        "specialty_orthopedics": "Ortopedia",
+        "specialty_gastroenterology": "Gastroenterología",
+        "specialty_endocrinology": "Endocrinología",
+        "specialty_nephrology": "Nefrología",
+        "specialty_urology": "Urología",
+        "specialty_oncology": "Oncología",
+        "specialty_hematology": "Hematología",
+        "specialty_pulmonology": "Neumología",
+        "specialty_rheumatology": "Reumatología",
+        "specialty_infectiology": "Infectología",
+        "specialty_general_surgery": "Cirugía General",
+        "submit_button": "Enviar",
+        "login_prompt": "¿Ya tienes una cuenta? ",
+        "login_link": "Iniciar Sesión"
+    },
+      "Footer": {
+        "rights_reserved": "Todos los derechos reservados.",
+        "about_us": "Acerca de Nosotros",
+        "privacy_policy": "Política de Privacidad"
+    },
+    "PatientDashboard": {
+        "title": "Panel de Paciente",
+        "welcome": "Bienvenido, Paciente",
+        "dashboard_text": "Este es tu panel."
+      },
+      "PatientProfile": {
+        "title": "Perfil del Paciente",
+        "profile": "Perfil",
+        "full_name": "Nombre Completo:",
+        "contact_info": "Información de Contacto:",
+        "insurance_info": "Información del Seguro:",
+        "medical_history": "Historial Médico:",
+        "no_profile": "No se encontró perfil.",
+        "pending_appointments": "Citas Pendientes",
+        "date": "Fecha:",
+        "time": "Hora:",
+        "doctor": "Doctor:",
+        "specialty": "Especialidad:",
+        "type": "Tipo:",
+        "no_pending_appointments": "No hay citas pendientes."
+      },
+        "BookAppointment": {
+          "title": "Reservar Cita",
+          "choose_specialty": "Elija Especialidad:",
+          "select_specialty": "Seleccione una Especialidad",
+          "choose_doctor": "Elija Doctor:",
+          "select_doctor": "Seleccione un Doctor",
+          "choose_date": "Elija Fecha:",
+          "choose_time": "Elija Hora:",
+          "select_time": "Seleccione una Hora",
+          "choose_appointment_type": "Elija Tipo de Cita:",
+          "in_person": "Presencial",
+          "online": "En Línea",
+          "book_appointment": "Reservar Cita"
+        },
+        "Specialties": {
+          "general_medicine": "Medicina General / Medicina de Familia",
+          "pediatrics": "Pediatría",
+          "gynecology": "Ginecología y Obstetricia",
+          "cardiology": "Cardiología",
+          "dermatology": "Dermatología",
+          "neurology": "Neurología",
+          "psychiatry": "Psiquiatría",
+          "ophthalmology": "Oftalmología",
+          "otolaryngology": "Otorrinolaringología",
+          "orthopedics": "Ortopedia",
+          "gastroenterology": "Gastroenterología",
+          "endocrinology": "Endocrinología",
+          "nephrology": "Nefrología",
+          "urology": "Urología",
+          "oncology": "Oncología",
+          "hematology": "Hematología",
+          "pulmonology": "Neumología",
+          "rheumatology": "Reumatología",
+          "infectiology": "Infectología",
+          "general_surgery": "Cirugía General"
+        },
+        "OnlineConsultation": {
+            "title": "Consulta en Línea",
+            "header": "Consulta en Línea",
+            "type_message": "Escribe un mensaje...",
+            "send": "Enviar",
+            "start_video_call": "Iniciar Videollamada",
+            "end_call": "Terminar Llamada"
+          },
+          "PatientAppointments": {
+            "title": "Citas del Paciente",
+            "header": "Citas del Paciente",
+            "no_appointments": "No tienes citas programadas.",
+            "doctor_name": "Nombre del Doctor",
+            "specialty": "Especialidad",
+            "date": "Fecha",
+            "time": "Hora",
+            "status": "Estado",
+            "type": "Tipo",
+            "action": "Acción",
+            "join_consultation": "Unirse a la Consulta"
+          },
+      "IndexRolsPatients":{
+            "Home": "Inicio",
+            "Header": {
+            "title": "Aplicación Médica",
+            "app_name": "Aplicación Médica"
+            },
+        "Patient": {
+          "profile": "Perfil",
+          "book_appointment": "Reservar Cita",
+          "online_consultations": "Consultas en Línea"
+            },
+        "Doctor": {
+          "profile": "Perfil",
+          "appointments": "Citas",
+          "online_consultations": "Consultas en Línea"
+            },
+        "General": {
+          "logout": "Cerrar Sesión",
+          "login": "Iniciar Sesión"
+        }
+    },
+    "AppointmentRequests": {
+    "title": "Solicitudes de Citas",
+    "header": "Citas Solicitadas",
+    "patient": "Paciente:",
+    "date": "Fecha:",
+    "time": "Hora:",
+    "contact_info": "Información de Contacto:",
+    "insurance_info": "Información del Seguro:",
+    "confirm": "Confirmar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "no_requested_appointments": "No hay citas solicitadas."
+  },
+  "DoctorProfile": {
+    "title": "Perfil del Doctor",
+    "header": "Perfil",
+    "full_name": "Nombre Completo:",
+    "specialty": "Especialidad:",
+    "availability": "Disponibilidad:",
+    "start_hour": "Hora de Inicio:",
+    "end_hour": "Hora de Fin:",
+    "no_profile": "No se encontró perfil.",
+    "scheduled_appointments": "Citas Programadas",
+    "patient": "Paciente:",
+    "date": "Fecha:",
+    "time": "Hora:",
+    "contact_info": "Información de Contacto:",
+    "insurance_info": "Información del Seguro:",
+    "no_scheduled_appointments": "No hay citas programadas."
+  },
+  "DoctorAppointments": {
+    "title": "Citas del Doctor",
+    "header": "Citas del Doctor",
+    "no_appointments": "No tienes citas programadas.",
+    "patient_name": "Nombre del Paciente",
+    "date": "Fecha",
+    "time": "Hora",
+    "status": "Estado",
+    "type": "Tipo",
+    "action": "Acción",
+    "join_consultation": "Unirse a la Consulta"
+  },
+  "DoctorDashboard": {
+    "title": "Panel de Control del Doctor",
+    "welcome": "Bienvenido, Doctor",
+    "dashboard_text": "Este es tu panel de control."
+  }
+  }
+  

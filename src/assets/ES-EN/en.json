@@ -1,0 +1,269 @@
+{
+  "Header": {
+    "login": "Log in",
+    "logout": "Log out",
+    "register": "Register"
+  },
+  "Index": {
+    "welcome_message": "Welcome to Medical App",
+    "description": "Online or in-person appointments and much more.",
+    "services": "Our Services",
+    "consultation": "Consultations",
+    "consultation_description": "Get professional consultation from our experienced doctors...",
+    "online_consultation": "Online Consultation",
+    "online_consultation_description": "Consult with our doctors online from the comfort of your home...",
+    "learnMore": "Learn More",
+    "about_us": "About Us",
+    "about_us_description": "We are a company dedicated to providing technological solutions for medical management, making life easier for doctors and patients.",
+    "privacy_policy": "Privacy Policy",
+    "privacy_policy_description": "We take the privacy of our users very seriously. Read our privacy policy to understand how we handle your information.",
+    "contact": "Contact",
+    "contact_description": "Do you have any questions or need assistance? Feel free to contact us through our contact page."
+  },
+  "Consultas": {
+    "title": "Consultations",
+    "description": "Get a professional consultation from our experienced doctors to solve your health problems.",
+    "learnMore": "Learn More...",
+    "sectionTitle": "In-Person Consultations",
+    "sectionDescription": "In our in-person consultations, you will receive personalized attention from our expert doctors. Scheduling an appointment is easy and quick.",
+    "bookNow": "Book Now"
+  },
+  "ConsultasOnline": {
+    "title": "Online Consultation",
+    "description": "Consult with our doctors online from the comfort of your home using our telemedicine platform.",
+    "learnMore": "Learn More...",
+    "sectionTitle": "Online Consultation",
+    "sectionDescription": "Online consultation allows you to access our medical services without leaving home. Connect with our doctors via video calls.",
+    "bookNow": "Book Now"
+  },
+  "AboutUs": {
+    "title": "About Us - Medical App",
+    "heading": "About Us",
+    "paragraph1": "At Medical App, we are dedicated to providing innovative technological solutions for medical appointment management, both in-person and online. Our goal is to make life easier for doctors and patients through an easy-to-use and highly efficient platform.",
+    "paragraph2": "With our system, you can schedule, manage, and conduct medical consultations from the comfort of your home or in the clinic. We are committed to enhancing the medical experience with cutting-edge technology."
+  },
+  "Contact": {
+    "title": "Contact - Medical App",
+    "heading": "Contact",
+    "paragraph1": "Do you have any questions or need assistance? We are here to help. Please fill out the contact form below and we will get back to you as soon as possible.",
+    "name_label": "Name",
+    "email_label": "Email",
+    "message_label": "Message",
+    "submit_button": "Send"
+  },
+  "PrivacyPolicy": {
+    "title": "Privacy Policy - Medical App",
+    "heading": "Privacy Policy",
+    "paragraph1": "At Medical App, we take the privacy of our users very seriously. This privacy policy describes how we collect, use, and protect your personal information.",
+    "collection_heading": "Information Collection",
+    "collection_paragraph": "We collect personal information that you provide to us directly, such as your name, email address, and details of the medical appointment. We may also collect information automatically through your use of our platform.",
+    "usage_heading": "Use of Information",
+    "usage_paragraph": "We use the collected information to provide and improve our services, communicate important updates, and personalize your experience on our platform.",
+    "protection_heading": "Information Protection",
+    "protection_paragraph": "We implement appropriate security measures to protect your personal information against unauthorized access, alteration, disclosure, or destruction.",
+    "paragraph2": "For more information, please read our full privacy policy or contact us if you have any questions."
+  },
+  "Login": {
+    "title": "Log in",
+    "heading": "Log in",
+    "username_label": "Username",
+    "password_label": "Password",
+    "submit_button": "Log in",
+    "register_prompt": "Don't have an account? ",
+    "register_link": "Register here"
+  },
+    "Register": {
+      "title": "Register",
+      "heading": "Register",
+      "address":"address",
+      "username_label": "Username",
+      "email_label": "Email",
+      "password_label": "Password",
+      "confirm_password_label": "Confirm Password",
+      "role_label": "Role",
+      "role_patient": "Patient",
+      "role_doctor": "Doctor",
+      "dni_label": "DNI",
+      "birth_date_label": "Birth Date",
+      "first_name_label": "First Name",
+      "last_name_label": "Last Name",
+      "direccion": "address",
+      "insurance_info_label": "Insurance Info",
+      "specialties_label": "Specialties",
+      "specialty_general": "General Medicine / Family Medicine",
+      "specialty_pediatrics": "Pediatrics",
+      "specialty_gynecology": "Gynecology and Obstetrics",
+      "specialty_cardiology": "Cardiology",
+      "specialty_dermatology": "Dermatology",
+      "specialty_neurology": "Neurology",
+      "specialty_psychiatry": "Psychiatry",
+      "specialty_ophthalmology": "Ophthalmology",
+      "specialty_ent": "Otorhinolaryngology",
+      "specialty_orthopedics": "Orthopedics",
+      "specialty_gastroenterology": "Gastroenterology",
+      "specialty_endocrinology": "Endocrinology",
+      "specialty_nephrology": "Nephrology",
+      "specialty_urology": "Urology",
+      "specialty_oncology": "Oncology",
+      "specialty_hematology": "Hematology",
+      "specialty_pulmonology": "Pulmonology",
+      "specialty_rheumatology": "Rheumatology",
+      "specialty_infectiology": "Infectiology",
+      "specialty_general_surgery": "General Surgery",
+      "submit_button": "Register",
+      "login_prompt": "Already have an account? ",
+      "login_link": "Log in"
+    },
+  "Footer": {
+    "rights_reserved": "All rights reserved.",
+    "about_us": "About Us",
+    "privacy_policy": "Privacy Policy"
+  },
+    "PatientDashboard": {
+      "title": "Patient Dashboard",
+      "welcome": "Welcome, Patient",
+      "dashboard_text": "This is your dashboard."
+    },
+    "BookAppointment": {
+      "title": "Book Appointment",
+      "choose_specialty": "Choose Specialty:",
+      "select_specialty": "Select a Specialty",
+      "choose_doctor": "Choose Doctor:",
+      "select_doctor": "Select a Doctor",
+      "choose_date": "Choose Date:",
+      "choose_time": "Choose Time:",
+      "select_time": "Select a Time",
+      "choose_appointment_type": "Choose Appointment Type:",
+      "in_person": "In-Person",
+      "online": "Online",
+      "book_appointment": "Book Appointment"
+    },
+    "Specialties": {
+      "general_medicine": "General Medicine / Family Medicine",
+      "pediatrics": "Pediatrics",
+      "gynecology": "Gynecology and Obstetrics",
+      "cardiology": "Cardiology",
+      "dermatology": "Dermatology",
+      "neurology": "Neurology",
+      "psychiatry": "Psychiatry",
+      "ophthalmology": "Ophthalmology",
+      "otolaryngology": "Otolaryngology",
+      "orthopedics": "Orthopedics",
+      "gastroenterology": "Gastroenterology",
+      "endocrinology": "Endocrinology",
+      "nephrology": "Nephrology",
+      "urology": "Urology",
+      "oncology": "Oncology",
+      "hematology": "Hematology",
+      "pulmonology": "Pulmonology",
+      "rheumatology": "Rheumatology",
+      "infectiology": "Infectiology",
+      "general_surgery": "General Surgery"
+    },
+    "PatientProfile": {
+    "title": "Patient Profile",
+    "profile": "Profile",
+    "full_name": "Full Name:",
+    "contact_info": "Contact Info:",
+    "insurance_info": "Insurance Info:",
+    "medical_history": "Medical History:",
+    "no_profile": "No profile found.",
+    "pending_appointments": "Pending Appointments",
+    "date": "Date:",
+    "time": "Time:",
+    "doctor": "Doctor:",
+    "specialty": "Specialty:",
+    "type": "Type:",
+    "no_pending_appointments": "No pending appointments."
+  },
+  "OnlineConsultation": {
+    "title": "Online Consultation",
+    "header": "Online Consultation",
+    "type_message": "Type a message...",
+    "send": "Send",
+    "start_video_call": "Start Video Call",
+    "end_call": "End Call"
+  },
+  "PatientAppointments": {
+    "title": "Patient Appointments",
+    "header": "Patient Appointments",
+    "no_appointments": "You have no appointments scheduled.",
+    "doctor_name": "Doctor Name",
+    "specialty": "Specialty",
+    "date": "Date",
+    "time": "Time",
+    "status": "Status",
+    "type": "Type",
+    "action": "Action",
+    "join_consultation": "Join Consultation"
+  },
+  "IndexRolsPatients": {
+    "Header": {
+      "title": "Medical App",
+      "app_name": "Medical App"
+    },
+    "Patient": {
+      "home": "Home",
+      "profile": "Profile",
+      "book_appointment": "Book Appointment",
+      "online_consultations": "Online Consultations"
+    },
+    "Doctor": {
+      "home": "Home",
+      "profile": "Profile",
+      "appointments": "Appointments",
+      "online_consultations": "Online Consultations"
+    },
+    "General": {
+      "logout": "Logout",
+      "login": "Login"
+    }
+  },
+  "AppointmentRequests": {
+    "title": "Appointment Requests",
+    "header": "Requested Appointments",
+    "patient": "Patient:",
+    "date": "Date:",
+    "time": "Time:",
+    "contact_info": "Contact Info:",
+    "insurance_info": "Insurance Info:",
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "no_requested_appointments": "No requested appointments."
+  },
+  "DoctorProfile": {
+    "title": "Doctor Profile",
+    "header": "Profile",
+    "full_name": "Full Name:",
+    "specialty": "Specialty:",
+    "availability": "Availability:",
+    "start_hour": "Start Hour:",
+    "end_hour": "End Hour:",
+    "no_profile": "No profile found.",
+    "scheduled_appointments": "Scheduled Appointments",
+    "patient": "Patient:",
+    "date": "Date:",
+    "time": "Time:",
+    "contact_info": "Contact Info:",
+    "insurance_info": "Insurance Info:",
+    "no_scheduled_appointments": "No scheduled appointments."
+  },
+  "DoctorAppointments": {
+    "title": "Doctor Appointments",
+    "header": "Doctor Appointments",
+    "no_appointments": "You have no appointments scheduled.",
+    "patient_name": "Patient Name",
+    "date": "Date",
+    "time": "Time",
+    "status": "Status",
+    "type": "Type",
+    "action": "Action",
+    "join_consultation": "Join Consultation"
+  },
+  "DoctorDashboard": {
+    "title": "Doctor Dashboard",
+    "welcome": "Welcome, Doctor",
+    "dashboard_text": "This is your dashboard."
+  }
+}
